@@ -59,7 +59,7 @@
 
         <property name="url" value="jdbc:mysql://localhost:3306/shipit_testdb"/>
         <property name="username" value="root"/>
-        <property name="password" value="mysql"/>
+        <property name="admin123" value="mysql"/>
 
         <property name="initialSize" value="3"/>
         <property name="maxActive" value="10"/>
